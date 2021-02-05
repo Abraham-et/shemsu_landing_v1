@@ -1,22 +1,22 @@
-import Image from 'next/image'
+// import Image from 'next/image'
 
 
 const team = [{
-    "img": "/../public/images/01.jpg",
+    "img": "../public/images/01.jpg",
     "name": "Abraham Assegid",
     "job": "CTO"
 },
 {
-    "img": "/../public/images/02.jpg",
+    "img": "../public/images/02.jpg",
     "name": "Girum Tihtina",
     "job": "CEO"
 }, {
-    "img": "/../public/images/03.jpg",
+    "img": "../public/images/03.jpg",
     "name": "Bethlehem Assegid",
     "job": "CMO"
 },
 {
-    "img": "/../public/images/04.jpg",
+    "img": "../public/images/04.jpg",
     "name": "Fitsum Abebe",
     "job": "COO"
 }
@@ -38,7 +38,7 @@ export default function services() {
                     <div key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
                         <div className="thumbnail">
                             {" "}
-                            <Image src={d.img} layout="responsive" width={240}
+                            <img src={require("../public/images/abrsh.jpg")} layout="responsive" width={240}
                                 height={240} />
 
                             <div className="caption">
@@ -53,3 +53,5 @@ export default function services() {
         </div>
     </div>)
 }
+
+{/* <img src={require("../public/images/about.jpg")}  */ }
