@@ -2,21 +2,21 @@
 
 
 const team = [{
-    "img": require('../public/images/abrsh.jpg'),
+    "img": require('../public/images/abrsh.webp'),
     "name": "Abraham Assegid",
     "job": "CTO"
 },
 {
-    "img": require("../public/images/girum.jpg"),
+    "img": require("../public/images/girum.webp"),
     "name": "Girum Tihtina",
     "job": "CEO"
 }, {
-    "img": require("../public/images/betty.jpg"),
+    "img": require("../public/images/betty.webp"),
     "name": "Bethlehem Assegid",
     "job": "CMO"
 },
 {
-    "img": require("../public/images/fitsum.jpg"),
+    "img": require("../public/images/fitsum.webp"),
     "name": "Fitsum Abebe",
     "job": "COO"
 }

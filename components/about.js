@@ -14,7 +14,7 @@ export default function about() {
     return (<div id="about">
         <div className="container">
             <div className="row">
-                <div className="col-xs-12 col-md-6"> <img src={require("../public/images/about.jpg")} layout="responsive" width={500}
+                <div className="col-xs-12 col-md-6"> <img src={require("../public/images/about.webp")} layout="responsive" width={500}
                     height={700} /> </div>
                 <div className="col-xs-12 col-md-6">
                     <div className="about-text">
