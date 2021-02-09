@@ -2,21 +2,21 @@
 
 
 const team = [{
-    "img": "../public/images/01.jpg",
+    "img": require('../public/images/abrsh.jpg'),
     "name": "Abraham Assegid",
     "job": "CTO"
 },
 {
-    "img": "../public/images/02.jpg",
+    "img": require("../public/images/girum.jpg"),
     "name": "Girum Tihtina",
     "job": "CEO"
 }, {
-    "img": "../public/images/03.jpg",
+    "img": require("../public/images/betty.jpg"),
     "name": "Bethlehem Assegid",
     "job": "CMO"
 },
 {
-    "img": "../public/images/04.jpg",
+    "img": require("../public/images/fitsum.jpg"),
     "name": "Fitsum Abebe",
     "job": "COO"
 }
@@ -35,10 +35,10 @@ export default function services() {
             </div>
             <div id="row">
                 {team.map((d, i) => (
-                    <div key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
+                    <div key={`${d.name}-${i}`} className=" col-sm-6  col-md-3 team">
                         <div className="thumbnail">
                             {" "}
-                            <img src={require("../public/images/abrsh.jpg")} layout="responsive" width={240}
+                            <img src={d.img} alt='...' width={240}
                                 height={240} />
 
                             <div className="caption">
@@ -49,6 +49,7 @@ export default function services() {
                     </div>
                 ))
                 }
+
             </div>
         </div>
     </div>)

@@ -32,29 +32,30 @@ const service = [{
 
 export default function services() {
 
-    return (<div id="services" className="text-center">
-        <div className="container">
-            <div className="section-title">
-                <h2>Our Services</h2>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-                    dapibus leonec.
-        </p>
-            </div>
-            <div className="row-custom">
-                {service.map((d, i) => (
-                    <div key={`${d.name}-${i}`} className="col-md-custom">
-                        {" "}
+    return (
+        <div id="services" className="text-center">
+            <div className="container">
+                <div className="section-title">
+                    <h2>Our Services</h2>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
+                        dapibus leonec.
+            </p>
+                </div>
+                <div className="row-custom">
+                    {service.map((d, i) => (
+                        <div key={`${d.name}-${i}`} className="col-xs-6 col-md-custom">
+                            {" "}
 
-                        <div className="service-desc">
-                            <i className={d.icon}></i>
-                            <h3>{d.name}</h3>
-                            <p>{d.text}</p>
+                            <div className="service-desc">
+                                <i className={d.icon}></i>
+                                <h3>{d.name}</h3>
+                                <p>{d.text}</p>
+                            </div>
                         </div>
-                    </div>
-                ))
-                }
+                    ))
+                    }
+                </div>
             </div>
-        </div>
-    </div>)
+        </div>)
 }
