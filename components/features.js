@@ -2,12 +2,12 @@
 const feature = [{
     "icon": "fa fa-map-marker",
     "title": "Locally Sourced",
-    "text": "All of our produce comes from small scale Ethiopian farmers that have your best interest at heart."
+    "text": "All of our produce comes from small scale organic farms that have your best interest at heart."
 },
 {
     "icon": "fa fa-thumbs-up",
     "title": "Consistently Providing Highest Quality",
-    "text": "All items that fill our shelves are hand picked by professionals and are selected to allure those who see it."
+    "text": "All items that fill our shelves are hand picked by professionals and processed so you don't have to wonder if you're getting the best product."
 },
 {
     "icon": "fa fa-money",
@@ -16,7 +16,7 @@ const feature = [{
 },
 {
     "icon": "fa fa-smile-o",
-    "title": "Selling Convenience as a Product",
+    "title": "Convenience as a Product",
     "text": "At Shemsu, groceries aren't the only things we sell. Convenience is always vital for our customers; that's why it is a crucial part of our business model."
 }
 ]

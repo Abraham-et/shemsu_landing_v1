@@ -5,9 +5,9 @@ const About = {
     "paragraph": "Our story starts with two college students, Abraham and Girum, realizing how inconvenient grocery shopping in Ethiopia is. With their background in computer science and economics, they set out to provide the Ethiopian public means to buy affordable produce of the highest quality in the most convenient and hassle-free manner. Together with experts in the agriculture world, they were able to identify and remove pain points in the supply chain to reduce costs and transfer the savings on to you. And with their crew of experienced farmers, diligent pickers and sorters, professional sales members, and software engineers they promise to always deliver the maximum value to you, our customer.",
     "Why": [
         "Convenient",
-        "Organic produce",
+        "Organic",
         "Transparent",
-        "Giving back to the community"
+        "Sustainable"
     ]
 }
 export default function about() {

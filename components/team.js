@@ -29,7 +29,7 @@ export default function services() {
             <div className="col-md-8 col-md-offset-2 section-title">
                 <h2>Meet the Team</h2>
                 <p>
-                    The Guaro team.
+                    The Guaro leadership.
         </p>
             </div>
             <div id="row">
