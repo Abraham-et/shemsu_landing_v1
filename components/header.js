@@ -2,7 +2,7 @@
 
 const Header = {
 
-    "title": "Meet Shemsu",
+    "title": "Meet Guaro",
     "paragraph": "Comitted to bring high quality organic produce to the Ethiopian public"
 
 }

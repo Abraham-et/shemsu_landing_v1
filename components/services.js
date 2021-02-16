@@ -5,7 +5,7 @@ const service = [{
 },
 {
     "icon": "fa fa-car",
-    "name": "Drive Through",
+    "name": "Drive-Through",
     "text": "Finding parking space might be one of the hardest things to do in Addis. With our drive through experience, you can stop and load your groceries without ever leaving your car."
 },
 {
@@ -15,18 +15,18 @@ const service = [{
 },
 {
     "icon": "fa fa-clock-o",
-    "name": "Semi-processed Vegitables",
-    "text": "Birke is tired of chopping onions for z doro wot. For her sake, we'll provide semi-processed vegitables that are ready to be cooked."
+    "name": "Semi-processed Vegetables",
+    "text": "No one wants to chopp onions after a busy day at work. For all our sakes, we'll provide semi-processed vegitables that are ready to be cooked."
 },
 {
     "icon": "fa fa-plane",
-    "name": "Free Advise",
+    "name": "Free Advice",
     "text": "Most of us dont know how long our groceries are meant to last or how to store them for long. With your groceires, we will leave a few notes on how to handle your food to maximiize value and minimize waste."
 },
 {
     "icon": "fa fa-pie-chart",
-    "name": "Consectetur adipiscing",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    "name": "Rewards",
+    "text": "The more you buy the easier it gets. Maintain a weekly purchase of atleast ETB 500 to get 1 Guaro point at the end of the month. You can use Guaro points to purchase produce.   "
 }]
 
 
@@ -36,10 +36,9 @@ export default function services() {
         <div id="services" className="text-center">
             <div className="container">
                 <div className="section-title">
-                    <h2>Our Services</h2>
+                    <h2>Guaro Perks</h2>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-                        dapibus leonec.
+                        Bringing you more ways to save time and money.
             </p>
                 </div>
                 <div className="row-custom">

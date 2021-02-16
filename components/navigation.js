@@ -133,7 +133,7 @@ export default function navigation() {
 
                     </button>
                     <a className="navbar-brand page-scroll" href="#page-top">
-                        Shemsu
+                        Guaro
               </a>{" "}
 
                 </div >
