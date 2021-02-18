@@ -69,19 +69,21 @@ export default function navigation() {
                         type="button"
                         className="navbar-toggle"
                         data-toggle="collapse"
+
                     >
-                        {" "}
+                        {/* {" "}
                         <span className="sr-only">Toggle navigation</span>{" "}
                         <span className="icon-bar"></span>{" "}
                         <span className="icon-bar"></span>{" "}
-                        <span className="icon-bar"></span>{" "}
+                        <span className="icon-bar"></span>{" "} */}
                         <Dropdown>
+
+
                             <Dropdown.Toggle variant="transparent" id="dropdown-basic">
-                                {/* {" "}
-                                <span className="sr-only">Toggle navigation</span>{" "}
-                                <span className="icon-bar"></span>{" "}
-                                <span className="icon-bar"></span>{" "}
-                                <span className="icon-bar"></span>{" "} */}
+                                <span className="sr-only">Toggle navigation</span>
+                                <span className="icon-bar"></span>
+                                <span className="icon-bar"></span>
+                                <span className="icon-bar"></span>
                             </Dropdown.Toggle>
 
                             <Dropdown.Menu>

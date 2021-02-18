@@ -1,5 +1,4 @@
-import Head from 'next/head'
-import utilStyles from '../styles/utils.module.css'
+
 import About from '../components/about'
 import Header from '../components/header'
 import Features from '../components/features'

@@ -99,7 +99,7 @@ export default function about() {
                     <div className="contact-item">
                         <p>
                             <span className="bold_titles">
-                                <i className="fa fa-envelope-o"></i> Email
+                                <i className="fa fa-envelope"></i> Email
                   </span>{" "}
                             {contacts ? contacts.email : "loading"}
                         </p>
@@ -113,17 +113,17 @@ export default function about() {
                                     <a
                                         href={contacts ? contacts.facebook : "/"}
                                     >
-                                        <i className="fa fa-facebook"></i>
+                                        <i className="fab fa-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
                                     <a href={contacts ? contacts.twitter : "/"}>
-                                        <i className="fa fa-twitter"></i>
+                                        <i className="fab fa-twitter"></i>
                                     </a>
                                 </li>
                                 <li>
                                     <a href={contacts ? contacts.youtube : "/"}>
-                                        <i className="fa fa-youtube"></i>
+                                        <i className="fab fa-youtube"></i>
                                     </a>
                                 </li>
                             </ul>

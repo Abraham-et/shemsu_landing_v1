@@ -14,12 +14,12 @@ const service = [{
     "text": "You can save time by calling and ordering ahead. That way, your groceries will be ready when you get to any of our locations."
 },
 {
-    "icon": "fa fa-clock-o",
+    "icon": "fa fa-industry",
     "name": "Semi-processed Vegetables",
     "text": "No one wants to chop onions after a busy day at work. For all our sakes, we'll provide semi-processed vegetables that are ready to be cooked."
 },
 {
-    "icon": "fa fa-plane",
+    "icon": "fa fa-headset",
     "name": "Free Advice",
     "text": "Most of us dont know how long our groceries are meant to last or how to store them for long. With your groceires, we will leave a few notes on how to handle your food to maximiize value and minimize waste."
 },
