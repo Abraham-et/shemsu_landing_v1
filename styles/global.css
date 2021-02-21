@@ -418,14 +418,14 @@ header .intro-text {
   list-style: none;
   padding: 0;
 }
-#about .about-text li:before {
+/* #about .about-text li:before {
   content: "\f00c";
   font-family: "Font Awesome 5 Free";
   color: linear-gradient(to right, #26532b 10%, #679b7c 90%);
   font-size: 11px;
   font-weight: 300;
   padding-right: 8px;
-}
+} */
 #about img {
   width: 520px;
   margin-top: 10px;
