@@ -135,7 +135,7 @@ export default function about() {
         <div id="footer">
             <div className="container text-center">
                 <p>
-                    &copy; 2021 Shemsu Produce
+                    &copy; 2021 Guaro Produce
             </p>
             </div>
         </div>

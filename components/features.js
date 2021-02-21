@@ -17,7 +17,7 @@ const feature = [{
 {
     "icon": "fa fa-smile",
     "title": "Convenience as a Product",
-    "text": "At Shemsu, groceries aren't the only things we sell. Convenience is always vital for our customers; that's why it is a crucial part of our business model."
+    "text": "At Guaro, groceries aren't the only things we sell. Convenience is always vital for our customers; that's why it is a crucial part of our business model."
 }
 ]
 
