@@ -3,7 +3,7 @@
 const Header = {
 
     "title": "Meet Guaro",
-    "paragraph": "Comitted to bring high quality organic produce to the Ethiopian public"
+    "paragraph": "Making high quality, affordable, and organic produce accessible to the Ethiopian public"
 
 }
 

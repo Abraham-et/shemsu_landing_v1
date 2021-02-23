@@ -1,12 +1,12 @@
 const service = [{
     "icon": "fa fa-shopping-cart",
     "name": "Pre-picked",
-    "text": "Picking your groceries can be a daunting task, especially after a long day at work. Our experienced pickers will select the best produce and package on your behalf, so you can focus on the more important things in life."
+    "text": "Picking your groceries can be a daunting task, especially after a long day at work. Our experienced pickers will select the best produce and pack it on your behalf, so you can focus on the more important things in life."
 },
 {
     "icon": "fa fa-car",
-    "name": "Drive-Through",
-    "text": "Finding parking space might be one of the hardest things to do in Addis. With our drive through experience, you can stop and load your groceries without ever leaving your car."
+    "name": "Drive-through",
+    "text": "Finding parking space is one of the hardest things to do in Addis. With our drive through experience, we will load your groceries without you ever leaving your car."
 },
 {
     "icon": "fa fa-phone",
@@ -21,12 +21,12 @@ const service = [{
 {
     "icon": "fa fa-headset",
     "name": "Free Advice",
-    "text": "Most of us dont know how long our groceries are meant to last or how to store them for long. With your groceires, we will leave a few notes on how to handle your food to maximiize value and minimize waste."
+    "text": "We will leave a few notes on how to handle your food to maximiize value and minimize waste. You can also give us a call; we got your back!"
 },
 {
     "icon": "fa fa-trophy",
     "name": "Rewards",
-    "text": "The more you buy the easier it gets. Maintain a weekly purchase of atleast ETB 500 to get 1 Guaro point at the end of the month. You can use Guaro points to purchase produce.   "
+    "text": "The more you buy the cheaper it gets. Hit a weekly purchase of at least ETB 500 to get 1 Guaro point at the end of the month. Guaro points = free food!"
 }]
 
 

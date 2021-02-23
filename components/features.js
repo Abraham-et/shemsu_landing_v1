@@ -6,7 +6,7 @@ const feature = [{
 },
 {
     "icon": "fa fa-thumbs-up",
-    "title": "Consistently Providing Highest Quality",
+    "title": "Highest Quality",
     "text": "All items that fill our shelves are hand picked by professionals and processed so you don't have to wonder if you're getting the best product."
 },
 {
